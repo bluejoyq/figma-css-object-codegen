@@ -1,0 +1,28 @@
+{
+  "name": "css-object",
+  "id": "1265699568605378644",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [
+    "codegen"
+  ],
+  "codegenLanguages": [
+    {
+      "label": "css object",
+      "value": "javascript"
+    },
+    {
+      "label": "css12 object",
+      "value": "javascript"
+    }
+  ],
+  "enableProposedApi": false,
+  "editorType": [
+    "dev"
+  ],
+  "networkAccess": {
+    "allowedDomains": [
+      "none"
+    ]
+  }
+}
