@@ -1,7 +1,7 @@
 {
   "name": "css-object-codegen",
   "id": "1265699568605378644",
-  "api": "1.0.0",
+  "api": "1.0.1",
   "main": "code.js",
   "capabilities": [
     "codegen"

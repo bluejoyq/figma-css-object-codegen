@@ -1,6 +1,6 @@
 {
   "name": "css-object-codegen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "generate css object from figma styles. no login required.",
   "main": "code.js",
   "scripts": {
