@@ -1,5 +1,5 @@
 {
-  "name": "css-object",
+  "name": "css-object-codegen",
   "id": "1265699568605378644",
   "api": "1.0.0",
   "main": "code.js",
@@ -9,10 +9,6 @@
   "codegenLanguages": [
     {
       "label": "css object",
-      "value": "javascript"
-    },
-    {
-      "label": "css12 object",
       "value": "javascript"
     }
   ],
