@@ -12,7 +12,7 @@ const cssObjectToCssString = (cssObject:CSS): string => {
     const value = cssObject[property];
     const camelCaseProperty = kebabToCamelCase(property);
     const quotedValue = addQuotesIfNeeded(value);
-    result += `\t${camelCaseProperty}: ${quotedValue};\n`;
+    result += `\t${camelCaseProperty}: ${quotedValue},\n`;
   }
 
   return result + '\n}';
